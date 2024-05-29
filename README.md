@@ -1,2 +1,2 @@
-# releases
+# LegendWare Zula
 Release Notes
