@@ -6,4 +6,4 @@ LegendWare Güncellendi.
 
 # Notes
 Son güncellenme tarihi: 30.05.2024
-Hile güvenli şekilde çalışıyor, ban sorunu çözüldü.
+x
