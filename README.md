@@ -2,7 +2,7 @@
 LegendWare Güncellendi.
 
 # Status
-:green_circle: Undetected
+🔴 Detected
 
 # Notes
 Son güncellenme tarihi: 30.05.2024
